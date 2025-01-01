@@ -76,7 +76,7 @@ To run this project locally, follow these steps:
 - Use the intuitive interface to have conversations and explore the chatbot's capabilities.
 
 ## License
-This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license. Usage is allowed for non-commercial purposes with proper credit to the author. See the [LICENSE](https://github.com/cybertiwari/twinstalk/blob/master/LICENSE) file for more details.
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license. Usage is allowed for non-commercial purposes with proper credit to the author. See the [LICENSE](https://github.com/cybertiwari/twinstalk/blob/main/LICENSE) file for more details.
 
 ## Repository Link
 [Twins Talk GitHub Repository](https://github.com/cybertiwari/twinstalk)
